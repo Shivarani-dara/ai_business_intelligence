@@ -673,3 +673,6 @@ By combining a validated data pipeline, SQLite, predefined SQL analytics, FastAP
 
 ### Data Quality Monitoring
 ![Data Quality](screenshots/data_quality.png)
+
+### API End Point
+![Api Endpoint](screenshots/apiendpoint.png)
