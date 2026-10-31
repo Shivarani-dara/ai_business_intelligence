@@ -669,7 +669,7 @@ By combining a validated data pipeline, SQLite, predefined SQL analytics, FastAP
 ![Analytics](screenshots/analytics.png)
 
 ### AI Business Assistant
-![AI Assistant](screenshots/ai_assistant.png)
+![AI Assistant](screenshots/ai_assistent.png)
 
 ### Data Quality Monitoring
 ![Data Quality](screenshots/data_quality.png)
