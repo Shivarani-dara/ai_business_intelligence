@@ -660,3 +660,16 @@ The Mini AI Business Intelligence Assistant demonstrates how Large Language Mode
 
 By combining a validated data pipeline, SQLite, predefined SQL analytics, FastAPI, Ollama, and Streamlit, the project provides a complete workflow from raw transactional data to interactive business insights.
 
+## Application Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Analytics
+![Analytics](screenshots/analytics.png)
+
+### AI Business Assistant
+![AI Assistant](screenshots/ai_assistant.png)
+
+### Data Quality Monitoring
+![Data Quality](screenshots/data_quality.png)
